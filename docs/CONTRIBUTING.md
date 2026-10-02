@@ -3,7 +3,7 @@
 <!-- 自动关闭。 -->
 
 # 关于自动合并拉取请求的规定
-<[English](./docs/en_README.md) / [简体中文](./docs/CONTRIBUTING.md)>
+<[English](./README.md) / [简体中文](./docs/CONTRIBUTING.md)>
 
 **仓库：** any-pr
 
